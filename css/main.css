@@ -243,3 +243,69 @@
 .sub_cont .active {
 	display: block;
 }
+
+.carshop h2 {
+	font-size: 18px;
+	color: #323232;
+	padding: 21px;
+	height: 30px;
+	border-bottom: 3px solid #143a63;
+	margin-bottom: 13px;
+}
+.carshop .goods li {
+	float: left;
+	width: 241px;
+	height: 403px;
+	margin-right: 9px;
+	border: 1px solid #ebebeb;
+}
+.goods {
+	margin: 0 -8px 15px 0;
+}
+.goodsImg {
+	display: block;
+	width: 212px;
+	height: 197px;
+	margin: 14px 0 19px 14px;
+	overflow: hidden;
+}
+.goodsImg img {
+	display: block;
+	margin-left: -50px;
+}
+.goodsName {
+	color: #434343;
+	padding-bottom: 7px;
+	border-bottom: 1px solid #c0bfbf;
+	margin: 0 14px 9px 16px;
+	font-weight: normal;
+}
+.carshop li p {
+	font-size: 12px;
+	line-height: 24px;
+	color: #888888;
+	margin: 0 14px 0 16px;
+}
+.goodsPrice {
+	margin-top: 10px;
+	padding: 0 10px 0 13px;
+}
+.goodsPrice span {
+	color: #f28e51;
+	font-size: 14px;
+	margin-top: 6px;
+}
+.goodsPrice a {
+	width: 82px;
+	height: 26px;
+	line-height: 26px;
+	padding-left: 8px;
+	color: #fffaf7;
+	font-size: 14px;
+	background: url(../img/goumai.gif) no-repeat;
+}
+.ad a {
+	display: block;
+	width: 1000px;
+	height: 92px;
+}
