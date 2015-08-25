@@ -73,9 +73,11 @@
 	margin: 0 auto;
 }
 .top_nav h2 {
+	font-size: 14px;
 	line-height: 14px;
 	color: #eeeeee;
 	line-height: 40px;
+	padding: 0;
 	padding-left: 15px;
 	width: 185px;
 	background: url(../img/jiao.gif) no-repeat;
@@ -244,11 +246,10 @@
 	display: block;
 }
 
-.carshop h2 {
+h2 {
 	font-size: 18px;
 	color: #323232;
-	padding: 21px;
-	height: 30px;
+	padding: 21px 0 13px 17px;
 	border-bottom: 3px solid #143a63;
 	margin-bottom: 13px;
 }
@@ -308,4 +309,164 @@
 	display: block;
 	width: 1000px;
 	height: 92px;
+}
+.cont2 .leftImg {
+	width: 247px;
+	height: 380px;
+	margin-right: -1px;
+	overflow: hidden;
+	position: relative;
+	z-index: 2;
+}
+.cards2 {
+	width: 126px;
+	float: left;
+	position: relative;
+	padding: 0 14px;
+	height: 378px;
+	margin-right: -1px;
+	border: 1px solid #e8e8e8;
+}
+.cont2 .list {
+	display: none;
+}
+.cont2 .active {
+	display: block;
+}
+.cont2 .sublist a {
+	display: block;
+	width: 126px;
+	height: 86px;
+	text-align: center;
+	border-bottom: 1px solid #e7e7e7;
+}
+.cont2 .sublist img {
+	vertical-align: middle;
+}
+.cont2 .sublist b {
+	height: 100%;
+	display: inline-block;
+	vertical-align: middle;
+}
+.cards2 .tabs {
+	position: absolute;
+	bottom: 21px;
+	left: 50%;
+	margin-left: -14px;
+}
+.cards2 .tabs span {
+	display: block;
+	float: left;
+	width: 6px;
+	height: 6px;
+	background: #b6b6b6;
+	cursor: pointer;
+	margin-right: 5px;
+}
+.cont2 .cards2 .last {
+	border: none;
+}
+.cards2 .tabs .selected {
+	background: #bd2027;
+}
+.cont2 .mid {
+	width: 371px;
+	float: left;
+}
+.cont2 .mid li {
+	float: left;
+	margin-bottom: -2px;
+	margin-right: -1px;
+	border: 1px solid #e7e7e6;
+	background: #fff;
+}
+.mid li a {
+	text-align: center;
+	display: block;
+	width: 184px;
+	height: 189px;
+}
+.mid li img {
+	vertical-align: middle;
+}
+.mid li b {
+	height: 100%;
+	display: inline-block;
+	vertical-align: middle;
+}
+.rightCont {
+	float: left;
+	width: 205px;
+	height: 380px;
+	padding-left: 22px;
+	background: url(../img/bg2.gif) no-repeat center bottom;
+}
+.rightCont h5 {
+	font-size: 14px;
+	font-weight: normal;
+	color: #565353;
+	padding-top: 9px;
+	padding-bottom: 10px;
+}
+.rightCont h5 a {
+	font-size: 12px;
+	margin-top: 1px;
+	color: #757172;
+}
+.rightCont li {
+	height: 34px;
+	border-bottom: 1px dashed #cacaca;
+}
+.rightCont li a {
+	font-size: 12px;
+	color: #909090;
+	line-height: 34px;
+}
+.cont3 .top {
+	margin-left: 1px;
+}
+.cont3 .top li {
+	float: left;
+	width: 248px;
+	height: 240px;
+	border: 1px solid #ededed;
+	border-top: 0;
+	margin-top: 1px;
+	margin-right: -1px;
+}
+.cont3_img {
+	height: 123px;
+	display: block;
+	text-align: center;
+}
+.cont3_name {
+	display: block;
+	margin: 13px 0 15px 32px;
+	color: #6b6b6b;
+}
+.cont3 .top .cont3_jifen {
+	margin: 0;
+	margin-left: 32px;
+	color: #afaeae;
+	line-height: 100%;
+}
+.cont3_jifen .top span {
+	color: #c31f25;
+}
+.cont3 .top .cont3_duihuan {
+	display: block;
+	width: 113px;
+	height: 35px;
+	margin: 13px 0 0 27px;
+	background: url(../img/duihuan.gif) no-repeat;
+}
+.cont3 .bot {
+	margin-left: 1px;
+	margin-right: -1px;
+}
+.cont3 .bot li {
+	width: 249px;
+	height: 139px;
+	float: left;
+	border-right: 1px solid #fff;
 }

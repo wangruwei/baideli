@@ -20,7 +20,7 @@ window.onload = function () {
 	cards("sub_cont");
 
 	// 调用第二个选项卡
-	
+	cards("cards2")
 
 	// 调用第三个选项卡
 	
