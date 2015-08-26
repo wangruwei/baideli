@@ -246,7 +246,7 @@
 	display: block;
 }
 
-h2 {
+.carshop h2 {
 	font-size: 18px;
 	color: #323232;
 	padding: 21px 0 13px 17px;
@@ -469,4 +469,257 @@ h2 {
 	height: 139px;
 	float: left;
 	border-right: 1px solid #fff;
+}
+.cont4_left {
+	width: 249px;
+	float: left;
+	border-right: 1px solid #edeeed;
+}
+.carshop h5 {
+	font-size: 14px;
+	color: #787777;
+	font-weight: normal;
+	margin: 0 12px 14px 13px;
+}
+.carshop h5 a {
+	font-weight: normal;
+	color: #787777;
+	font-size: 14px;
+}
+.cont4_pao {
+	width: 219px;
+	margin-left: 16px;
+}
+.cont4_left ul {
+	margin-right: 10px;
+}
+.cont4_left li a {
+	display: block;
+	height: 42px;
+	color: #909090;
+	line-height: 42px;
+	border-bottom: 1px solid #ededed;
+}
+.cont4_left2 {
+	width: 253px;
+	height: 366px;
+	overflow: hidden;
+	float: left;
+	border-right: 1px solid #edeeed;
+}
+.cont4_icon {
+	margin-left: 16px;
+	margin-right: -3px;
+}
+.cont4_icon li {
+	float: left;
+	width: 60px;
+	margin-right: 20px;
+	text-align: center;
+}
+.cont4_icon li a {
+	display: block;
+	width: 60px;
+	height: 60px;
+	background: url(../img/xuebi1.png) no-repeat;
+}
+.cont4_icon li p {
+	color: #313232;
+	font-size: 12px;
+	line-height: 100%;
+	margin: 9px 0 21px 0;
+}
+.cont4 .icon2 a {
+	background-position: -81px 0;
+}
+.cont4 .icon3 a {
+	background-position: -162px 0;
+}
+.cont4 .icon4 a {
+	background-position: 0 -78px;
+}
+.cont4 .icon5 a {
+	background-position: -81px -78px;
+}
+.cont4 .icon6 a {
+	background-position: -162px -78px;
+}
+.cont4_wen h6 {
+	font-weight: normal;
+	color: #787777;
+	font-size: 14px;
+	margin: 0 0 19px 19px;
+}
+.cont4_wen a {
+	display: block;
+	margin: 0 0 17px 18px;
+	color: #90908f;
+}
+.cont4_right1 {
+	float: left;
+	width: 252px;
+	height: 366px;
+	margin-right: -1px;
+	overflow: hidden;
+}
+.cont4_right1 ul {
+	margin: 0 0 9px 8px;
+}
+.cont4_right1 li {
+	float: left;
+	margin: 0 7px 8px 0;
+	border: 1px solid #e6e6e6;
+}
+.cont4_wen.right1 a {
+	display: block;
+	height: 38px;
+	line-height: 38px;
+	margin: 0 12px 0 18px;
+	border-bottom: 1px solid #ecedec;
+}
+.cont4_wen.right1 h6 {
+	margin-bottom: 3px;
+}
+.cont4_tu {
+	width: 243px;
+	height: 391px;
+	float: right;
+	margin-top: -13px;
+	margin-bottom: 17px;
+	border: 1px solid #edeeed;
+}
+.cont_ser h2 {
+	height: 47px;
+	font-size: 18px;
+	line-height: 47px;
+	color: #131313;
+	padding-left: 17px;
+	border-bottom: 1px dashed #dbdbdb;
+	margin-bottom: 3px;
+}
+.service {
+	border-top: 1px dashed #dbdbdb;
+}
+.ser_left h6 {
+	padding-top: 17px;
+	padding-left: 12px;
+	height: 24px;
+	font-size: 14px;
+	color: #969695;
+	font-weight: normal;
+}
+.ser_left h6 a {
+	font-size: 12px;
+	color: #969695;
+	float: right;
+}
+.ser_left {
+	float: left;
+	padding-left: 11px;
+	padding-right: 13px;
+	border-right: 1px solid #ecedec;
+}
+.sl_img {
+	margin-bottom: 2px;
+}
+.sl_list a {
+	display: block;
+	line-height: 40px;
+	font-size: 12px;
+	color: #969695;
+	padding-left: 4px;
+	border-bottom: 1px dashed #dbdbdb;
+}
+.baoxian {
+	width: 382px;
+}
+.baoxian ul {
+	margin-right: -32px;
+}
+.baoxian .sl_list li {
+	float: left;
+	width: 173px;
+	margin-right: 34px;
+}
+.ser_rb .img {
+	float: left;
+	margin-right: 15px;
+}
+.yuyue {
+	float: left;
+}
+.yuyue ul {
+	margin-bottom: 22px;
+}
+.yuyue ul a {
+	display: block;
+	line-height: 39px;
+	font-size: 12px;
+	color: #969695;
+	border-bottom: 1px dashed #dbdbdb;
+	padding-left: 9px;
+	width: 177px;
+}
+.yuyue .phone {
+	height: 45px;
+	font-size: 18px;
+	content: #4f3928;
+	line-height: 45px;
+	padding-left: 50px;
+	background: url(../img/phone.gif) no-repeat;
+}
+.second {
+	float: left;
+	margin-bottom: 17px;
+}
+.second li {
+	float: left;
+	width: 237px;
+	padding-left: 19px;
+	border-right: 1px solid #ededed;
+}
+.ser_tit {
+	font-size: 14px;
+	color: #959594;
+	font-weight: bold;
+	margin-top: 29px;
+	margin-bottom: 16px;
+}
+.ser_img {
+	display: block;
+}
+.ser_img img {
+	margin-bottom: 12px;
+}
+.cont_ser .ser_info {
+	display: block;
+	line-height: 25px;
+	font-size: 14px;
+	color: #a2a1a1;
+	padding-left: 15px;
+	background: url(../img/dian.gif) no-repeat 4px center;
+}
+.timeline {
+	float: left;
+	padding-left: 25px;
+}
+
+.footer {
+	text-align: center;
+	height: 140px;
+	padding-top: 65px;
+	background: url(../img/ftbg.gif) repeat-x;
+}
+.footer p {
+	display: inline-block;
+	color: #ffffff;
+	margin-bottom: 29px;
+	font-size: 14px;
+}
+.footer p span {
+	display: inline-block;
+	margin: 0 10px;
+}
+.footer p a {
+	color: #ffffff;
 }
